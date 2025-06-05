@@ -1,3 +1,4 @@
 # Misiones
 
-* INvestigar planes de riguito.
+* Ivestigar planes de riguito.
+* Capturar a keiner
